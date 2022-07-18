@@ -1,0 +1,14 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/categories/[id]": "pages/api/categories/[id].js",
+  "/api/categories": "pages/api/categories.js",
+  "/api/comments/[id]": "pages/api/comments/[id].js",
+  "/api/posts/[id]": "pages/api/posts/[id].js",
+  "/api/posts": "pages/api/posts.js",
+  "/category/[id]": "pages/category/[id].js",
+  "/": "pages/index.js",
+  "/post/[id]": "pages/post/[id].js",
+  "/_error": "pages/_error.js"
+}
